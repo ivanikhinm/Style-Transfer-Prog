@@ -12,4 +12,4 @@ Given an input image and a style image, we can compute an output image with the 
 To run proggram `python main.py`
 
 # Result
-![]()
+![](https://github.com/ivanikhinm/Style-Transfer-Prog/blob/master/images/screen.png)
