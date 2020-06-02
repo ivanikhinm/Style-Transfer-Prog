@@ -11,5 +11,5 @@ Given an input image and a style image, we can compute an output image with the 
 # Running
 To run proggram `python main.py`
 
-# Results 
-![](https://github.com/ivanikhinm/Style-Transfer-Prog/blob/master/images/screen.png)
+# Result
+![]()
